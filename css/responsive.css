@@ -14,7 +14,6 @@
   #social a {
     display: inline-block;
   }
-  
 }
 
 @media only screen and (max-width: 900px) {
@@ -41,7 +40,6 @@
     -webkit-column-count: 2;
     column-count: 2;
   }
-  
 }
 
 @media only screen and (max-width: 800px) {
@@ -49,7 +47,6 @@
   #navbar nav a {
     font-size: 0.9em;
   }
-  
 }
 
 @media only screen and (max-width: 750px) {
@@ -59,5 +56,4 @@
     margin-left: 0;
     float: none;
   }
-  
 }
